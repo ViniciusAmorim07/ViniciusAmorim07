@@ -5,16 +5,15 @@
 
 ## 🚀 Tecnologias
 - SQL
-- JavaScript
+- Power BI
 - Python
+- JavaScript
 - C
-- HTML
-- CSS
 - Git
 
 ## 📚 Atualmente estudando
-- Node.js
-- APIs REST
+- Python
+- Power BI
 - Modelagem de Banco de Dados
 
 ## 📂 Projetos
